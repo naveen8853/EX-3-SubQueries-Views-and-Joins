@@ -1,5 +1,6 @@
 # EX 3 SubQueries, Views and Joins 
 
+### DATE : 18/08/2023
 
 ## Create employee Table
 ```sql
@@ -209,3 +210,5 @@ LEFT:
 RIGHT:
 
 ![](3.10.2.png)
+### Result:
+Thus the Employee table has been created and the output has been verified successfully.
